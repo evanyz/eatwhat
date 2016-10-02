@@ -1,0 +1,15 @@
+{
+  "name": "eatwhat",
+  "version": "1.0.0",
+  "description": "just a personal project to choose what to eat",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Zhou",
+  "license": "ISC"
+}
